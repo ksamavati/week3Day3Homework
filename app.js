@@ -1,0 +1,23 @@
+var var1 = 1;
+var var2 = 2;
+var var3 = 3;
+var var4 = 4;
+var var5 = 5;
+var var6 = 6;
+var var7 = 7;
+var var8 = 8;
+var var9 = 9;
+var var10 = 10;
+
+console.log(var3 + var6);
+console.log(var4 + var10);
+console.log(var6 - var3);
+console.log(var3 - var6);
+console.log(var3 * var6);
+console.log(var3 * var6);
+console.log(var6 / var3);
+console.log(var9 / var3);
+var1++;
+var3++;
+var5--;
+var6--;
